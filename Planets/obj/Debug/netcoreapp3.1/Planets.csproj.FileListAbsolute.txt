@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\Planets\Planets\obj\Debug\netcoreapp3.1\Planets.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Planets\Planets\obj\Debug\netcoreapp3.1\Planets.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Planets\Planets\obj\Debug\netcoreapp3.1\Planets.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Planets\Planets\obj\Debug\netcoreapp3.1\Planets.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Planets\Planets\bin\Debug\netcoreapp3.1\Planets.exe
+C:\Users\opilane\source\repos\Planets\Planets\bin\Debug\netcoreapp3.1\Planets.deps.json
+C:\Users\opilane\source\repos\Planets\Planets\bin\Debug\netcoreapp3.1\Planets.runtimeconfig.json
+C:\Users\opilane\source\repos\Planets\Planets\bin\Debug\netcoreapp3.1\Planets.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Planets\Planets\bin\Debug\netcoreapp3.1\Planets.dll
+C:\Users\opilane\source\repos\Planets\Planets\bin\Debug\netcoreapp3.1\Planets.pdb
+C:\Users\opilane\source\repos\Planets\Planets\obj\Debug\netcoreapp3.1\Planets.dll
+C:\Users\opilane\source\repos\Planets\Planets\obj\Debug\netcoreapp3.1\Planets.pdb
+C:\Users\opilane\source\repos\Planets\Planets\obj\Debug\netcoreapp3.1\Planets.genruntimeconfig.cache

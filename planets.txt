@@ -1,9 +1,0 @@
-﻿Mercury$330
-Venus$4870
-Earth$5970
-Mars$642
-Jupiter$189800
-Saturn$56800
-Uranus$8680
-Neptune$10200
-Pluto$14
